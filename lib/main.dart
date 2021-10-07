@@ -52,7 +52,7 @@ class myname extends State<Mystatefullwidget> {
               ),
             ),
             SizedBox(
-              height: 10.0,
+              height: 30.0,
             ),
             SizedBox(
               width: 300.0,
