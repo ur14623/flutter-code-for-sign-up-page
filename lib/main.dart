@@ -55,7 +55,7 @@ class myname extends State<Mystatefullwidget> {
               height: 10.0,
             ),
             SizedBox(
-              width: 200.0,
+              width: 300.0,
               height: 80.0,
               child: TextField(
                 controller: enterdatapas,
